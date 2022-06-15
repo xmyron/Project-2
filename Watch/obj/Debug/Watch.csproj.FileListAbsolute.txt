@@ -1,0 +1,11 @@
+C:\Users\yuram\Documents\Watch\Watch\bin\Debug\Watch.exe.config
+C:\Users\yuram\Documents\Watch\Watch\bin\Debug\Watch.exe
+C:\Users\yuram\Documents\Watch\Watch\bin\Debug\Watch.pdb
+C:\Users\yuram\Documents\Watch\Watch\obj\Debug\Watch.csproj.AssemblyReference.cache
+C:\Users\yuram\Documents\Watch\Watch\obj\Debug\Watch.csproj.SuggestedBindingRedirects.cache
+C:\Users\yuram\Documents\Watch\Watch\obj\Debug\Watch.Form1.resources
+C:\Users\yuram\Documents\Watch\Watch\obj\Debug\Watch.Properties.Resources.resources
+C:\Users\yuram\Documents\Watch\Watch\obj\Debug\Watch.csproj.GenerateResource.cache
+C:\Users\yuram\Documents\Watch\Watch\obj\Debug\Watch.csproj.CoreCompileInputs.cache
+C:\Users\yuram\Documents\Watch\Watch\obj\Debug\Watch.exe
+C:\Users\yuram\Documents\Watch\Watch\obj\Debug\Watch.pdb
